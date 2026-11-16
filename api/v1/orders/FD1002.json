@@ -1,0 +1,16 @@
+{
+ "resultCode": "0000",
+ "message": "OK",
+ "data": {
+  "orderNo": "FD1002",
+  "item": "아기 떡뻥 쌀과자 30g x 6봉 (백미) x 2",
+  "brand": "아기밥상",
+  "price": 22300,
+  "pay": "간편결제(N Pay)",
+  "type": "일반",
+  "status": "상품준비중",
+  "paid": 1,
+  "shipEta": 1,
+  "ship": "배송비 2,500원(20,000원 미만 주문)"
+ }
+}

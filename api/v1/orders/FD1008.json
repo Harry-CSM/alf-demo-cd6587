@@ -1,0 +1,19 @@
+{
+ "resultCode": "0000",
+ "message": "OK",
+ "data": {
+  "orderNo": "FD1008",
+  "item": "닭고기 감자 이유식 160g x 6팩 (후기)",
+  "brand": "아기밥상",
+  "price": 20400,
+  "pay": "신용카드",
+  "type": "일반",
+  "status": "배송완료",
+  "delivered": 5,
+  "claim": "반품접수(회수 대기)",
+  "claimStart": 4,
+  "reason": "오배송(다른 단계 상품 수령)",
+  "returnFee": 0,
+  "carrier": "한진택배"
+ }
+}

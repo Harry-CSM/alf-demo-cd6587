@@ -1,0 +1,18 @@
+{
+ "resultCode": "0000",
+ "message": "OK",
+ "data": {
+  "orderNo": "FD1009",
+  "item": "스마트D 산양유아식 2단계 800g x 1캔",
+  "brand": "산양유아식",
+  "price": 42900,
+  "pay": "신용카드",
+  "type": "일반",
+  "status": "배송완료",
+  "delivered": 1,
+  "notReceived": true,
+  "ship": "무료배송",
+  "carrier": "한진택배",
+  "tracking": "5120-3381-3005"
+ }
+}

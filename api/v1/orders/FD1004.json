@@ -1,0 +1,19 @@
+{
+ "resultCode": "0000",
+ "message": "OK",
+ "data": {
+  "orderNo": "FD1004",
+  "item": "소고기 단호박 이유식 160g x 6팩 (중기)",
+  "brand": "아기밥상",
+  "price": 21600,
+  "pay": "신용카드",
+  "type": "일반",
+  "status": "배송완료",
+  "delivered": 10,
+  "claim": "반품처리중",
+  "claimStart": 8,
+  "reason": "제품 하자(파우치 파손)",
+  "returnFee": 0,
+  "carrier": "한진택배"
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "resultCode": "0000",
+ "message": "OK",
+ "data": {
+  "orderNo": "FD1006",
+  "item": "비오타민 패밀리 유산균 500mg x 60캡슐",
+  "brand": "후디스",
+  "price": 24900,
+  "pay": "간편결제(N Pay)",
+  "type": "일반",
+  "status": "배송완료",
+  "delivered": 12,
+  "ship": "무료배송",
+  "carrier": "한진택배",
+  "tracking": "5120-3380-9912"
+ }
+}

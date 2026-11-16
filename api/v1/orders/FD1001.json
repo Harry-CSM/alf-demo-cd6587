@@ -1,0 +1,17 @@
+{
+ "resultCode": "0000",
+ "message": "OK",
+ "data": {
+  "orderNo": "FD1001",
+  "item": "뉴클래스 분유 1단계 800g x 1캔",
+  "brand": "트루맘",
+  "price": 31900,
+  "pay": "신용카드",
+  "type": "일반",
+  "status": "배송완료",
+  "delivered": 3,
+  "ship": "무료배송",
+  "carrier": "한진택배",
+  "tracking": "5120-3381-2041"
+ }
+}

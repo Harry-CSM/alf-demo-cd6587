@@ -1,0 +1,17 @@
+{
+ "resultCode": "0000",
+ "message": "OK",
+ "data": {
+  "orderNo": "FD1005",
+  "item": "초유밀 키즈 성장 영양식 90g x 2통",
+  "brand": "후디스",
+  "price": 29800,
+  "pay": "신용카드",
+  "type": "일반",
+  "status": "배송중",
+  "paid": 3,
+  "ship": "무료배송",
+  "carrier": "한진택배",
+  "tracking": "5120-3381-2077"
+ }
+}
